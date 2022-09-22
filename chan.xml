@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZVIP type="guideonly">
+<CHAN>
+	<ip>172.20.35.222</ip>
+	<port>21216</port>
+	<srcip></srcip>
+	<tstype>tsoverudp</tstype>
+</CHAN>
+</ZVIP>
