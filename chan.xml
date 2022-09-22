@@ -3,7 +3,8 @@
 <CHAN>
 	<ip>172.20.35.222</ip>
 	<port>21216</port>
-	<srcip></srcip>
 	<tstype>tsoverudp</tstype>
+	<name>ZV</name>
+	<pnum>77</pnum>
 </CHAN>
 </ZVIP>
